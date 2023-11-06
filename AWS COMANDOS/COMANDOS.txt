@@ -1,0 +1,63 @@
+	COMANDOS UTILIZADOS
+
+ 1  npm init 
+    2  npm init
+    3  clear
+    4  npm init
+    5  sudo apt istall npm
+    6  clear
+    7  curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+    8  sudo apt-get install -y nodejs
+    9  clear
+   10  sudo apt install -y nodejs
+   11  clear
+   12  sudo apt install nodejs
+   13  clear
+   14  sudo apt update
+   15  wget https://downloads.mysql.com/docs/sakila-db.zip
+   16  unzip sakila-db.zip
+   17  sudo apt install unzip
+   18  unzip sakila-db.zip
+   19  mysql -u root -p
+   20  sudo apt install mysql-client-core-8.0  
+   21  sudo apt install mariadb-client-core-10.3 
+   22  mysql -u root -p
+   23  clear
+   24  sudo apt update
+   25  sudo apt update && sudo apt upgrade -y
+   26  sudo apt-get install apache2 -y
+   27  sudo systemctl status apache2
+   28  sudo apachectl -v
+   29  sudo apt install mysql-server -y
+   30  sudo apt install php libapache2-mod-php php-mysql -y
+   31  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y
+   32  sudo phpenmod mbstring
+   33  sudo systemctl restart apache2
+   34  sudo mysql
+   35  exit
+   36  sudo mysql
+   37  clear
+   38  sudo mysql
+   39  clear
+   40  sudo apt update && sudo apt upgrade -y
+   41  sudo apt-get install apache2 -y
+   42  sudo systemctl status apache2
+   43  sudo apachectl -v
+   44  sudo apt install mysql-server -y
+   45  sudo apt install php libapache2-mod-php php-mysql -y
+   46  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y
+   47  sudo phpenmod mbstring”, seguido reiniciamos el servicio de apache, “sudo systemctl restart apache2
+   48  sudo mysql
+   49  mysql -u root -p
+   50  sudo apt update && sudo apt upgrade -y
+   51  sudo apt-get install apache2 -y
+   52  sudo systemctl status apache2
+   53  sudo apachectl -v
+   54  sudo apt install mysql-server -y
+   55  sudo apt install php libapache2-mod-php php-mysql -y
+   56  sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y
+   57  sudo phpenmod mbstring
+   58  sudo systemctl restart apache2
+   59  sudo mysql
+   60  mysql -u root -p
+   61  history 
